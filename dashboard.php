@@ -1,5 +1,5 @@
 <?php
-// Archivo FEDE: dashboard.php (VERSIÓN FINAL Y CORREGIDA CON DATOS REALES DE BD)
+// Archivo: dashboard.php (VERSIÓN FINAL Y CORREGIDA CON DATOS REALES DE BD)
 session_start();
 // Asegúrate de que este archivo 'conexion.php' exista y provea $pdo
 include 'conexion.php'; 
